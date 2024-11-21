@@ -1,9 +1,9 @@
-const MONGODB_API_KEY = "845ahksm0BCndzZyDzLyAjtReGQlx5hVe4j6Jugg5EE4Uw0P5VQnIkdHiMkWMW97"
-const URL_MONGODB="https://sa-east-1.aws.data.mongodb-api.com/app/data-fobksab/endpoint/data/v1/action/"
+const MONGODB_API_KEY = "your-mongo-apiKEY"
+const URL_MONGODB="your-mongo-apiURL"
 
-const DATA_SOURCE="Cluster0"
-const DATABASE="AlertaRemedios"
-const COLLECTION="Remedios"
+const DATA_SOURCE="mongoDatasource"
+const DATABASE="mongoDatabase"
+const COLLECTION="mongoCollection"
 
 export {
     MONGODB_API_KEY,
